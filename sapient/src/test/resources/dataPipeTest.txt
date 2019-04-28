@@ -1,0 +1,2 @@
+External Transaction Id|Client Id|Security Id|Transaction Type|Transaction Date|Market Value|Priority Flag
+SAPEXTXN1|GS|ICICI|BUY|23/11/2013|101.9|Y
